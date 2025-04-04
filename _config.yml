@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Davide Schiaroli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Laureato in Ing. Informatica a Cesena (Unibo). Vivo e lavoro come sviluppatore a San Marino. Nel tempo libero suonatore di basso e ogni tanto provo a viaggiare."
+  bio    : "Laureato in Ing. Informatica a Cesena (Unibo). Lavoro come sviluppatore a San Marino. Nel tempo libero suonatore di basso e ogni tanto provo a viaggiare."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
